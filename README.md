@@ -60,5 +60,5 @@ $ git push origin
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/saivittalb/) 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
-<p align="center"> Copyright (c) 2019 Sai Vittal B. All rights reserved.</p>
-<p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
+<p align="center"> Copyright (c) 2019 Sanket Srivastava. All rights reserved.</p>
+<p align="center"> Made with ❤ by <a href="https://github.com/Algo-Sanket">Sanket Srivastava</a></p>
